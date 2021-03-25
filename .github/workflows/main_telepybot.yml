@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'telepybot'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d38f09d0c2fe4e77932cf96bcbbf73c2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8388eb8496a9458b926d6cabb00a3e6c }}
